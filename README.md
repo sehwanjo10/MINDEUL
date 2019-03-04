@@ -6,6 +6,8 @@
 
 ## GALLERY
 
+Copyright ⓒ All right Reserved. All pictures cannot be copied without permission.
+
 - 자해를 위한 해소의 수단입니다. 2012년을 기점으로 꿈속의 이야기가 기록되기도 하고, 순간의 감정들이 그려지기도 합니다.
   - 2016
     - CAMPING DAY + HELINOX (2016.06)
@@ -70,8 +72,7 @@
         
 ## PROJECT
 
-- 자해를 위한 해소의 수단입니다. 2012년을 기점으로 꿈속의 이야기가 기록되기도 하고, 순간의 감정들이 그려지기도 합니다.
-
+- 보다 더 기록하여 지나온 시간에 의미를 채우는 활동입니다. 
 ## PRODUCT
 
 - 상상 속의 것들을 세상 밖으로 꺼내오는 공간입니다. 
