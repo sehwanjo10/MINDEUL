@@ -73,6 +73,12 @@ Copyright ⓒ All right Reserved. All pictures cannot be copied without permissi
 ## PROJECT
 
 - 보다 더 기록하여 지나온 시간에 의미를 채우는 활동입니다. 
+  - 2019
+    - PROJECT SEWOL ｜ A memorable piece (2018.7 - 2019.4.16)
+  - 2016
+    - FISHBOWL (2016)
+    - LONDON TO PARIS (2016)
+    
 ## PRODUCT
 
 - 상상 속의 것들을 세상 밖으로 꺼내오는 공간입니다. 
