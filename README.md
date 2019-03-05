@@ -1,4 +1,6 @@
-# MINDEUL
+# [MINDEUL](www.mindeul.com)
+
+<img src="https://github.com/sehwanjo10/MINDEUL/blob/master/images/MINDEUL.png" width=25% height=25%>
 
 ## ABOUT
 
