@@ -1,10 +1,9 @@
-# [MINDEUL](http://www.mindeul.com)
-
+# MINDEUL
 <img src="https://github.com/sehwanjo10/MINDEUL/blob/master/images/MINDEUL.png" width=25% height=25%>
 
 ## ABOUT
 
-- 불행임과 동시에 행복을 의미합니다. 매번 행복할 수도 불행할 수도 없는 그 사이에서 정리할 수 없는 것들을 정리하는 과정입니다.
+- MINDEUL(민들)은 불행임과 동시에 행복을 의미합니다. 매번 행복할 수도 불행할 수도 없는 그 사이에서 정리할 수 없는 것들을 정리하는 과정입니다.
 
 ## [GALLERY](http://themindeul.tumblr.com/gallery)
 
