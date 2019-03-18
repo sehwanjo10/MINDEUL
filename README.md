@@ -11,10 +11,10 @@ Copyright ⓒ All right Reserved. All pictures cannot be copied without permissi
 
 - 자해를 위한 해소의 수단입니다. 2012년을 기점으로 꿈속의 이야기가 기록되기도 하고, 순간의 감정들이 그려지기도 합니다.
   - 2016
-    - CAMPING DAY + HELINOX (2016.06)
-    - 여행자 (2016.06)
-    - (2016.06)
-    - (2016.03)
+    - [CAMPING DAY + HELINOX(2016.06)](https://github.com/sehwanjo10/MINDEUL/blob/master/images/CAMPING%20DAY%20+%20HELINOX.jpg?raw=true)
+    - [여행자 (2016.06)](https://github.com/sehwanjo10/MINDEUL/blob/master/images/%EC%97%AC%ED%96%89%EC%9E%90.jpg?raw=true)
+    - [(2016.06)](https://github.com/sehwanjo10/MINDEUL/blob/master/images/2018.06.jpg?raw=true)
+    - [(2016.03)](https://github.com/sehwanjo10/MINDEUL/blob/master/images/2016.03.jpg?raw=true)
     - 하고 싶은 걸 해(2016.06) 
   - 2015
     - “ ” (2015)
